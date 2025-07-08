@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\bin\Debug\net9.0\exc6.exe
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\bin\Debug\net9.0\exc6.deps.json
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\bin\Debug\net9.0\exc6.runtimeconfig.json
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\bin\Debug\net9.0\exc6.dll
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\bin\Debug\net9.0\exc6.pdb
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.dll
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\refint\exc6.dll
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.pdb
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\exc6.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\AULA 3\exc6\obj\Debug\net9.0\ref\exc6.dll

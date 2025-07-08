@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\bin\Debug\net9.0\forca dos D.exe
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\bin\Debug\net9.0\forca dos D.deps.json
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\bin\Debug\net9.0\forca dos D.runtimeconfig.json
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\bin\Debug\net9.0\forca dos D.dll
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\bin\Debug\net9.0\forca dos D.pdb
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.dll
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\refint\forca dos D.dll
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.pdb
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\forca dos D.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\mari-fic\c#- 30.06\forca dos D\obj\Debug\net9.0\ref\forca dos D.dll
