@@ -86,25 +86,21 @@
 
 
     void BuscarItem(string caminho)
-    {
-        Console.Write("Digite o nome do item para buscar: ");
-        string nomeBuscado = Console.ReadLine()?.ToLower();
+{
+    Console.Write("Digite o nome do item para buscar: ");
+    string nomeBuscado = Console.ReadLine()?.ToLower();
 
-        if (!File.Exists(caminho)) return;
+    if (!File.Exists(caminho)) return;
 
-        string[] itens = File.ReadAllText(caminho).Split(',');
+    string[] itens = File.ReadAllText(caminho).Split(',');
 
-        foreach (var item in itens)
-        {
-            if (!string.IsNullOrWhiteSpace(item) && item.StartsWith($"{nomeBuscado}|"))
-            {
-                Console.WriteLine($"Encontrado: {item}");
-                return;
-            }
-        }
+    var encontrado = itens.FirstOrDefault(item =>
+        !string.IsNullOrWhiteSpace(item) &&
+        item.StartsWith($"{nomeBuscado}|"));
 
-        Console.WriteLine("Item não encontrado.");
-    }
+    Console.WriteLine(encontrado != null ? $"Encontrado: {encontrado}" : "Item não encontrado.");
+}
+
 
     void ModificarQuantidade(string caminho)
     {
@@ -135,7 +131,7 @@
         }
         else
         {
-            Console.WriteLine("Item não encontrado.");
+            Console.WriteLine("Item não encontrado!");
         }
     }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hortinha-dos-D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e731da51af2df670daeae191957c80613f2d0a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c029ebfcb4f082a04a80ce397ce4eada5cf3652f")]
 [assembly: System.Reflection.AssemblyProductAttribute("hortinha-dos-D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hortinha-dos-D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

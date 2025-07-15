@@ -26,8 +26,8 @@ Criar um código em C# em que um usuário possa cadastrar produtos de uma horta 
     - `laranja|73,jaca|18,mexerica|40`✅
     - Criar método para exibir os itens e a quantidade deles✅
 
-- Criar método para buscar um item específico e exibir sua quantidade, caso exista
+- Criar método para buscar um item específico e exibir sua quantidade, caso exista✅
 
-- Criar método para modificar a quantidade de um item já existente
+- Criar método para modificar a quantidade de um item já existente✅
 
-- Criar método para limpar o conteúdo de um arquivo selecionado
+- Criar método para limpar o conteúdo de um arquivo selecionado✅
