@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\bin\Debug\net9.0\14-07.exe
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\bin\Debug\net9.0\14-07.deps.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\bin\Debug\net9.0\14-07.runtimeconfig.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\bin\Debug\net9.0\14-07.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\bin\Debug\net9.0\14-07.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.sourcelink.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\refint\14-07.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\14-07.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\caixa-eletronico\obj\Debug\net9.0\ref\14-07.dll

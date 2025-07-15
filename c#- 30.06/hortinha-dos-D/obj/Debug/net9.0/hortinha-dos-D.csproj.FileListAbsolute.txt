@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\bin\Debug\net9.0\hortinha-dos-D.exe
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\bin\Debug\net9.0\hortinha-dos-D.deps.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\bin\Debug\net9.0\hortinha-dos-D.runtimeconfig.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\bin\Debug\net9.0\hortinha-dos-D.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\bin\Debug\net9.0\hortinha-dos-D.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.sourcelink.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\refint\hortinha-dos-D.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\hortinha-dos-D.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\hortinha-dos-D\obj\Debug\net9.0\ref\hortinha-dos-D.dll

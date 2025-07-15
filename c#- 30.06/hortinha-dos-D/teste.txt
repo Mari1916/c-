@@ -1,0 +1,31 @@
+# Projeto: Gestão de Horta
+
+**Objetivo**
+
+Criar um código em C# em que um usuário possa cadastrar produtos de uma horta comunitária, especificando seu tipo (fruta, legume ou verdura), salvando cada um em seu respectivo arquivo (`frutas.csv`, `legumes.csv`, `verduras.csv`), de acordo com o que o usuário selecionar.
+
+- Exiba um menu perguntando qual tipo de produto o usuário gostaria de salvar (fruta, legume ou verdura)
+- Pergunte o nome do item a ser registrado
+- Verifique se o item já não existe no arquivo de texto
+    - Leia o arquivo
+    - Separe os items com a função `string.Split()`
+    - Percorra o array antes de adicionar um novo elemento, verificando se ele já não está presente
+- Caso o item ainda não exista, salve-o, separado por vírgulas
+
+`frutas.csv`
+
+```
+maça,banana,pêra,melão,abacaxi,mamão,uva
+```
+
+`legumes.csv` 
+
+```
+batata,cenoura,pepino,berinjela,chuchu
+```
+
+`verduras.csv`
+
+```
+acelga,couve-manteiga,acelga,coentro,rúcula
+```
