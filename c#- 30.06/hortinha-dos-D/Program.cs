@@ -64,25 +64,26 @@
     }
 
     void ExibirItens(string caminho)
+{
+    if (File.Exists(caminho))
     {
-        if (File.Exists(caminho))
-        {
-            string[] itens = File.ReadAllText(caminho).Split(',');
+        string[] itens = File.ReadAllText(caminho).Split(',');
 
-            foreach (var item in itens)
+        for (int i = 0; i < itens.Length; i++)
+        {
+            if (!string.IsNullOrWhiteSpace(itens[i]))
             {
-                if (!string.IsNullOrWhiteSpace(item))
-                {
-                    var partes = item.Split('|');
-                    Console.WriteLine($"Item: {partes[0]} - Quantidade: {partes[1]}");
-                }
+                var partes = itens[i].Split('|');
+                Console.WriteLine($"Item: {partes[0]} - Quantidade: {partes[1]}");
             }
         }
-        else
-        {
-            Console.WriteLine("Arquivo não encontrado.");
-        }
     }
+    else
+    {
+        Console.WriteLine("Arquivo não encontrado.");
+    }
+}
+
 
     void BuscarItem(string caminho)
     {

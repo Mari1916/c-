@@ -4,28 +4,30 @@
 
 Criar um código em C# em que um usuário possa cadastrar produtos de uma horta comunitária, especificando seu tipo (fruta, legume ou verdura), salvando cada um em seu respectivo arquivo (`frutas.csv`, `legumes.csv`, `verduras.csv`), de acordo com o que o usuário selecionar.
 
-- Exiba um menu perguntando qual tipo de produto o usuário gostaria de salvar (fruta, legume ou verdura)
-- Pergunte o nome do item a ser registrado
+- Exiba um menu perguntando qual tipo de produto o usuário gostaria de salvar (fruta, legume ou verdura)✅
+
+- Pergunte o nome do item a ser registrado✅
+
 - Verifique se o item já não existe no arquivo de texto
-    - Leia o arquivo
-    - Separe os items com a função `string.Split()`
-    - Percorra o array antes de adicionar um novo elemento, verificando se ele já não está presente
-- Caso o item ainda não exista, salve-o, separado por vírgulas
+    - Leia o arquivo✅
+    - Separe os items com a função `string.Split()`✅
+    - Percorra o array antes de adicionar um novo elemento, verificando se ele já não está presente✅
 
-`frutas.csv`
+- Caso o item ainda não exista, salve-o, separado por vírgulas✅
 
-```
-maça,banana,pêra,melão,abacaxi,mamão,uva
-```
 
-`legumes.csv` 
+## Sugestões opcionais 🌟
 
-```
-batata,cenoura,pepino,berinjela,chuchu
-```
+- Utilizar o método para garantir que os itens serão salvos com letras minúsculas✅
 
-`verduras.csv`
+- Verificar se o arquivo existe com `File.Exists()` antes de tentar lê-lo✅
 
-```
-acelga,couve-manteiga,acelga,coentro,rúcula
-```
+- Perguntar a quantidade de items na colheita e salvar separado por barra vertical. Ex:✅
+    - `laranja|73,jaca|18,mexerica|40`✅
+    - Criar método para exibir os itens e a quantidade deles✅
+
+- Criar método para buscar um item específico e exibir sua quantidade, caso exista
+
+- Criar método para modificar a quantidade de um item já existente
+
+- Criar método para limpar o conteúdo de um arquivo selecionado
