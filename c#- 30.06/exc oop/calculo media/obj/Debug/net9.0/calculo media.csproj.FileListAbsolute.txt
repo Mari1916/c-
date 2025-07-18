@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.sourcelink.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\bin\Debug\net9.0\calculo media.exe
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\bin\Debug\net9.0\calculo media.deps.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\bin\Debug\net9.0\calculo media.runtimeconfig.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\bin\Debug\net9.0\calculo media.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\bin\Debug\net9.0\calculo media.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\refint\calculo media.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\calculo media.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo media\obj\Debug\net9.0\ref\calculo media.dll

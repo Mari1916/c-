@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.sourcelink.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\bin\Debug\net9.0\abrigoAnimais.exe
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\bin\Debug\net9.0\abrigoAnimais.deps.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\bin\Debug\net9.0\abrigoAnimais.runtimeconfig.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\bin\Debug\net9.0\abrigoAnimais.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\bin\Debug\net9.0\abrigoAnimais.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\refint\abrigoAnimais.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\abrigoAnimais.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\abrigoAnimais\obj\Debug\net9.0\ref\abrigoAnimais.dll

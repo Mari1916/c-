@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.sourcelink.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\bin\Debug\net9.0\calculo garrafa.exe
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\bin\Debug\net9.0\calculo garrafa.deps.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\bin\Debug\net9.0\calculo garrafa.runtimeconfig.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\bin\Debug\net9.0\calculo garrafa.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\bin\Debug\net9.0\calculo garrafa.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\refint\calculo garrafa.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\calculo garrafa.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo garrafa\obj\Debug\net9.0\ref\calculo garrafa.dll

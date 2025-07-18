@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.sourcelink.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\bin\Debug\net9.0\calculo retangulo.exe
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\bin\Debug\net9.0\calculo retangulo.deps.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\bin\Debug\net9.0\calculo retangulo.runtimeconfig.json
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\bin\Debug\net9.0\calculo retangulo.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\bin\Debug\net9.0\calculo retangulo.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\refint\calculo retangulo.dll
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.pdb
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\calculo retangulo.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Mari-Fic\14\lerolero\c-\c#- 30.06\exc oop\calculo retangulo\obj\Debug\net9.0\ref\calculo retangulo.dll
